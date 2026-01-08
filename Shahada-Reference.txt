@@ -1,9 +1,0 @@
-Shahada.txt
-Exact text SHA256: fb77ad1ce1d38b5cc433d71421176385738d419ab60f6cb6c184ea03fc4d1aed
-IPFSv0 CID: Qmb7vTuw3uXPxPZ3RTkUagZ5mHYcN8SMxAN5GiajfmRV2c
-GitHub repo: https://github.com/ogzix/Shahada
-Public gateways:
-- https://ipfs.io/ipfs/Qmb7vTuw3uXPxPZ3RTkUagZ5mHYcN8SMxAN5GiajfmRV2c
-- https://dweb.link/ipfs/Qmb7vTuw3uXPxPZ3RTkUagZ5mHYcN8SMxAN5GiajfmRV2c
-- https://gateway.pinata.cloud/ipfs/Qmb7vTuw3uXPxPZ3RTkUagZ5mHYcN8SMxAN5GiajfmRV2c
-Archived page: https://archive.org/details/shahada_202601
