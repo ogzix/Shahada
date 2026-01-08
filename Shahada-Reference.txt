@@ -1,0 +1,10 @@
+Shahada.txt
+SHA256: 3a6c81635aafcc57ec5f8cbe06a033769d8fcf15d15fbb3faf53cae8c64412b8
+IPFSv0 CID: QmdwKUHr4749cKFiG2CDTzdoHQkjG4oQpNz4ZnkQos9aiN
+GitHub repo: https://github.com/ogzix/Shahada
+Public gateways:
+- https://ipfs.io/ipfs/QmdwKUHr4749cKFiG2CDTzdoHQkjG4oQpNz4ZnkQos9aiN
+- https://dweb.link/ipfs/QmdwKUHr4749cKFiG2CDTzdoHQkjG4oQpNz4ZnkQos9aiN
+- https://gateway.pinata.cloud/ipfs/QmdwKUHr4749cKFiG2CDTzdoHQkjG4oQpNz4ZnkQos9aiN
+Archived page: https://archive.org/details/TheShahada
+ℜEWS verification system: https://rews.neocities.org
